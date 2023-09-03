@@ -49,6 +49,7 @@ To begin working with this project, follow these steps:
 1. Clone this repository: 
 ```bash
 git clone https://github.com/eugenekuloba/tomato-leaf-disease-image-classification
+```
 2. Navigate to the project directory:
 ```bash
 cd tomato-leaf-disease-image-classification
