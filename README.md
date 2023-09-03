@@ -10,7 +10,7 @@ Table of Contents
 ========
 
  * [Project Overview](#Project-Overview)
- * [Objectives] (#Objectives)
+ * [Objectives](#Objectives)
  * [Data Sources](#Data-Sources)
  * [Getting Started](#Getting-Started)
  * [Data Preprocessing](#Data-Preprocessing)
